@@ -1,6 +1,10 @@
 # service-api-gateway
 基于Zuul+Nacos+Jwt+Springboot 静态&amp;动态路由配置和JwtToken校验网关服务
 
+![](https://github.com/Starbucksstar/SkyWalking/blob/master/img/architecture.png)
+
+![](https://github.com/Starbucksstar/SkyWalking/blob/master/img/architecture.png)
+
 ## 静态路由
 application.properties中zuul.routes...相关配置，静态路由
 
